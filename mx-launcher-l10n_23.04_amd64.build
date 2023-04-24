@@ -1,0 +1,292 @@
+ dpkg-buildpackage -us -uc -ui -si
+dpkg-buildpackage: Information: Quellpaket mx-launcher-l10n
+dpkg-buildpackage: Information: Quellversion 23.04
+dpkg-buildpackage: Information: Quelldistribution mx
+dpkg-buildpackage: Information: Quelle geändert durch fehlix <fehlix@mxlinux.org>
+ dpkg-source --before-build .
+dpkg-buildpackage: Information: Host-Architektur amd64
+ fakeroot debian/rules clean
+dh clean  --buildsystem=meson --builddirectory=mesonbuild
+make[1]: Verzeichnis „/tmpdir/build/mx-launcher-l10n“ wird betreten
+dh_auto_clean
+make[1]: Verzeichnis „/tmpdir/build/mx-launcher-l10n“ wird verlassen
+ dpkg-source -b .
+dpkg-source: Information: Quellformat »3.0 (native)« wird verwendet
+dpkg-source: Information: mx-launcher-l10n wird in mx-launcher-l10n_23.04.tar.xz gebaut
+dpkg-source: Information: mx-launcher-l10n wird in mx-launcher-l10n_23.04.dsc gebaut
+ debian/rules build
+dh build  --buildsystem=meson --builddirectory=mesonbuild
+The Meson build system
+Version: 1.0.1
+Source dir: /tmpdir/build/mx-launcher-l10n
+Build dir: /tmpdir/build/mx-launcher-l10n/mesonbuild
+Build type: native build
+Configuring version with command
+Project name: mx-launcher-l10n
+Project version: 23.04
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Program msgfmt found: YES (/usr/bin/msgfmt)
+Program msginit found: YES (/usr/bin/msginit)
+Program msgmerge found: YES (/usr/bin/msgmerge)
+Program xgettext found: YES (/usr/bin/xgettext)
+Build targets in project: 115
+
+mx-launcher-l10n 23.04
+
+  User defined options
+    buildtype    : plain
+    libdir       : lib/x86_64-linux-gnu
+    localstatedir: /var
+    prefix       : /usr
+    sysconfdir   : /etc
+    wrap_mode    : nodownload
+
+Found ninja-1.11.1 at /usr/bin/ninja
+[1/112] Generating translations/po/af/LC_MESSAGES/mx-launcher-l10n-af.mo with a custom command
+[2/112] Generating translations/po/am/LC_MESSAGES/mx-launcher-l10n-am.mo with a custom command
+[3/112] Generating translations/po/ar/LC_MESSAGES/mx-launcher-l10n-ar.mo with a custom command
+[4/112] Generating translations/po/be/LC_MESSAGES/mx-launcher-l10n-be.mo with a custom command
+[5/112] Generating translations/po/bn/LC_MESSAGES/mx-launcher-l10n-bn.mo with a custom command
+[6/112] Generating translations/po/bg/LC_MESSAGES/mx-launcher-l10n-bg.mo with a custom command
+[7/112] Generating translations/po/bs/LC_MESSAGES/mx-launcher-l10n-bs.mo with a custom command
+[8/112] Generating translations/po/ca/LC_MESSAGES/mx-launcher-l10n-ca.mo with a custom command
+[9/112] Generating translations/po/ceb/LC_MESSAGES/mx-launcher-l10n-ceb.mo with a custom command
+[10/112] Generating translations/po/co/LC_MESSAGES/mx-launcher-l10n-co.mo with a custom command
+[11/112] Generating translations/po/cy/LC_MESSAGES/mx-launcher-l10n-cy.mo with a custom command
+[12/112] Generating translations/po/cs/LC_MESSAGES/mx-launcher-l10n-cs.mo with a custom command
+[13/112] Generating translations/po/da/LC_MESSAGES/mx-launcher-l10n-da.mo with a custom command
+[14/112] Generating translations/po/de/LC_MESSAGES/mx-launcher-l10n-de.mo with a custom command
+[15/112] Generating translations/po/el/LC_MESSAGES/mx-launcher-l10n-el.mo with a custom command
+[16/112] Generating translations/po/es_ES/LC_MESSAGES/mx-launcher-l10n-es_ES.mo with a custom command
+[17/112] Generating translations/po/eo/LC_MESSAGES/mx-launcher-l10n-eo.mo with a custom command
+[18/112] Generating translations/po/et/LC_MESSAGES/mx-launcher-l10n-et.mo with a custom command
+[19/112] Generating translations/po/fa/LC_MESSAGES/mx-launcher-l10n-fa.mo with a custom command
+[20/112] Generating translations/po/es/LC_MESSAGES/mx-launcher-l10n-es.mo with a custom command
+[21/112] Generating translations/po/eu/LC_MESSAGES/mx-launcher-l10n-eu.mo with a custom command
+[22/112] Generating translations/po/fil_PH/LC_MESSAGES/mx-launcher-l10n-fil_PH.mo with a custom command
+[23/112] Generating translations/po/fil/LC_MESSAGES/mx-launcher-l10n-fil.mo with a custom command
+[24/112] Generating translations/po/fr/LC_MESSAGES/mx-launcher-l10n-fr.mo with a custom command
+[25/112] Generating translations/po/fi/LC_MESSAGES/mx-launcher-l10n-fi.mo with a custom command
+[26/112] Generating translations/po/fy/LC_MESSAGES/mx-launcher-l10n-fy.mo with a custom command
+[27/112] Generating translations/po/fr_BE/LC_MESSAGES/mx-launcher-l10n-fr_BE.mo with a custom command
+[28/112] Generating translations/po/gd/LC_MESSAGES/mx-launcher-l10n-gd.mo with a custom command
+[29/112] Generating translations/po/ga/LC_MESSAGES/mx-launcher-l10n-ga.mo with a custom command
+[30/112] Generating translations/po/gl_ES/LC_MESSAGES/mx-launcher-l10n-gl_ES.mo with a custom command
+[31/112] Generating translations/po/gl/LC_MESSAGES/mx-launcher-l10n-gl.mo with a custom command
+[32/112] Generating translations/po/gu/LC_MESSAGES/mx-launcher-l10n-gu.mo with a custom command
+[33/112] Generating translations/po/ha/LC_MESSAGES/mx-launcher-l10n-ha.mo with a custom command
+[34/112] Generating translations/po/he_IL/LC_MESSAGES/mx-launcher-l10n-he_IL.mo with a custom command
+[35/112] Generating translations/po/haw/LC_MESSAGES/mx-launcher-l10n-haw.mo with a custom command
+[36/112] Generating translations/po/he/LC_MESSAGES/mx-launcher-l10n-he.mo with a custom command
+[37/112] Generating translations/po/hi/LC_MESSAGES/mx-launcher-l10n-hi.mo with a custom command
+[38/112] Generating translations/po/hr/LC_MESSAGES/mx-launcher-l10n-hr.mo with a custom command
+[39/112] Generating translations/po/ht/LC_MESSAGES/mx-launcher-l10n-ht.mo with a custom command
+[40/112] Generating translations/po/hy/LC_MESSAGES/mx-launcher-l10n-hy.mo with a custom command
+[41/112] Generating translations/po/hu/LC_MESSAGES/mx-launcher-l10n-hu.mo with a custom command
+[42/112] Generating translations/po/is/LC_MESSAGES/mx-launcher-l10n-is.mo with a custom command
+[43/112] Generating translations/po/it/LC_MESSAGES/mx-launcher-l10n-it.mo with a custom command
+[44/112] Generating translations/po/id/LC_MESSAGES/mx-launcher-l10n-id.mo with a custom command
+[45/112] Generating translations/po/jv/LC_MESSAGES/mx-launcher-l10n-jv.mo with a custom command
+[46/112] Generating translations/po/ka/LC_MESSAGES/mx-launcher-l10n-ka.mo with a custom command
+[47/112] Generating translations/po/ja/LC_MESSAGES/mx-launcher-l10n-ja.mo with a custom command
+[48/112] Generating translations/po/kk/LC_MESSAGES/mx-launcher-l10n-kk.mo with a custom command
+[49/112] Generating translations/po/km/LC_MESSAGES/mx-launcher-l10n-km.mo with a custom command
+[50/112] Generating translations/po/kn/LC_MESSAGES/mx-launcher-l10n-kn.mo with a custom command
+[51/112] Generating translations/po/ko/LC_MESSAGES/mx-launcher-l10n-ko.mo with a custom command
+[52/112] Generating translations/po/ku/LC_MESSAGES/mx-launcher-l10n-ku.mo with a custom command
+[53/112] Generating translations/po/lt/LC_MESSAGES/mx-launcher-l10n-lt.mo with a custom command
+[54/112] Generating translations/po/ky/LC_MESSAGES/mx-launcher-l10n-ky.mo with a custom command
+[55/112] Generating translations/po/lo/LC_MESSAGES/mx-launcher-l10n-lo.mo with a custom command
+[56/112] Generating translations/po/lb/LC_MESSAGES/mx-launcher-l10n-lb.mo with a custom command
+[57/112] Generating translations/po/lv/LC_MESSAGES/mx-launcher-l10n-lv.mo with a custom command
+[58/112] Generating translations/po/mg/LC_MESSAGES/mx-launcher-l10n-mg.mo with a custom command
+[59/112] Generating translations/po/mi/LC_MESSAGES/mx-launcher-l10n-mi.mo with a custom command
+[60/112] Generating translations/po/mk/LC_MESSAGES/mx-launcher-l10n-mk.mo with a custom command
+[61/112] Generating translations/po/ml/LC_MESSAGES/mx-launcher-l10n-ml.mo with a custom command
+[62/112] Generating translations/po/mn/LC_MESSAGES/mx-launcher-l10n-mn.mo with a custom command
+[63/112] Generating translations/po/mr/LC_MESSAGES/mx-launcher-l10n-mr.mo with a custom command
+[64/112] Generating translations/po/ms/LC_MESSAGES/mx-launcher-l10n-ms.mo with a custom command
+[65/112] Generating translations/po/mt/LC_MESSAGES/mx-launcher-l10n-mt.mo with a custom command
+[66/112] Generating translations/po/nb_NO/LC_MESSAGES/mx-launcher-l10n-nb_NO.mo with a custom command
+[67/112] Generating translations/po/my/LC_MESSAGES/mx-launcher-l10n-my.mo with a custom command
+[68/112] Generating translations/po/nb/LC_MESSAGES/mx-launcher-l10n-nb.mo with a custom command
+[69/112] Generating translations/po/ne/LC_MESSAGES/mx-launcher-l10n-ne.mo with a custom command
+[70/112] Generating translations/po/ny/LC_MESSAGES/mx-launcher-l10n-ny.mo with a custom command
+[71/112] Generating translations/po/nl_BE/LC_MESSAGES/mx-launcher-l10n-nl_BE.mo with a custom command
+[72/112] Generating translations/po/nl/LC_MESSAGES/mx-launcher-l10n-nl.mo with a custom command
+[73/112] Generating translations/po/or/LC_MESSAGES/mx-launcher-l10n-or.mo with a custom command
+[74/112] Generating translations/po/pa/LC_MESSAGES/mx-launcher-l10n-pa.mo with a custom command
+[75/112] Generating translations/po/pl/LC_MESSAGES/mx-launcher-l10n-pl.mo with a custom command
+[76/112] Generating translations/po/pt_BR/LC_MESSAGES/mx-launcher-l10n-pt_BR.mo with a custom command
+[77/112] Generating translations/po/ps/LC_MESSAGES/mx-launcher-l10n-ps.mo with a custom command
+[78/112] Generating translations/po/pt/LC_MESSAGES/mx-launcher-l10n-pt.mo with a custom command
+[79/112] Generating translations/po/ro/LC_MESSAGES/mx-launcher-l10n-ro.mo with a custom command
+[80/112] Generating translations/po/ru/LC_MESSAGES/mx-launcher-l10n-ru.mo with a custom command
+[81/112] Generating translations/po/rw/LC_MESSAGES/mx-launcher-l10n-rw.mo with a custom command
+[82/112] Generating translations/po/sd/LC_MESSAGES/mx-launcher-l10n-sd.mo with a custom command
+[83/112] Generating translations/po/sk/LC_MESSAGES/mx-launcher-l10n-sk.mo with a custom command
+[84/112] Generating translations/po/si/LC_MESSAGES/mx-launcher-l10n-si.mo with a custom command
+[85/112] Generating translations/po/sl/LC_MESSAGES/mx-launcher-l10n-sl.mo with a custom command
+[86/112] Generating translations/po/sm/LC_MESSAGES/mx-launcher-l10n-sm.mo with a custom command
+[87/112] Generating translations/po/so/LC_MESSAGES/mx-launcher-l10n-so.mo with a custom command
+[88/112] Generating translations/po/sn/LC_MESSAGES/mx-launcher-l10n-sn.mo with a custom command
+[89/112] Generating translations/po/sq/LC_MESSAGES/mx-launcher-l10n-sq.mo with a custom command
+[90/112] Generating translations/po/st/LC_MESSAGES/mx-launcher-l10n-st.mo with a custom command
+[91/112] Generating translations/po/sr/LC_MESSAGES/mx-launcher-l10n-sr.mo with a custom command
+[92/112] Generating translations/po/sv/LC_MESSAGES/mx-launcher-l10n-sv.mo with a custom command
+[93/112] Generating translations/po/su/LC_MESSAGES/mx-launcher-l10n-su.mo with a custom command
+[94/112] Generating translations/po/ta/LC_MESSAGES/mx-launcher-l10n-ta.mo with a custom command
+[95/112] Generating translations/po/te/LC_MESSAGES/mx-launcher-l10n-te.mo with a custom command
+[96/112] Generating translations/po/tg/LC_MESSAGES/mx-launcher-l10n-tg.mo with a custom command
+[97/112] Generating translations/po/sw/LC_MESSAGES/mx-launcher-l10n-sw.mo with a custom command
+[98/112] Generating translations/po/tk/LC_MESSAGES/mx-launcher-l10n-tk.mo with a custom command
+[99/112] Generating translations/po/th/LC_MESSAGES/mx-launcher-l10n-th.mo with a custom command
+[100/112] Generating translations/po/tr/LC_MESSAGES/mx-launcher-l10n-tr.mo with a custom command
+[101/112] Generating translations/po/tt/LC_MESSAGES/mx-launcher-l10n-tt.mo with a custom command
+[102/112] Generating translations/po/ug/LC_MESSAGES/mx-launcher-l10n-ug.mo with a custom command
+[103/112] Generating translations/po/uk/LC_MESSAGES/mx-launcher-l10n-uk.mo with a custom command
+[104/112] Generating translations/po/ur/LC_MESSAGES/mx-launcher-l10n-ur.mo with a custom command
+[105/112] Generating translations/po/uz/LC_MESSAGES/mx-launcher-l10n-uz.mo with a custom command
+[106/112] Generating translations/po/vi/LC_MESSAGES/mx-launcher-l10n-vi.mo with a custom command
+[107/112] Generating translations/po/xh/LC_MESSAGES/mx-launcher-l10n-xh.mo with a custom command
+[108/112] Generating translations/po/yi/LC_MESSAGES/mx-launcher-l10n-yi.mo with a custom command
+[109/112] Generating translations/po/zh_CN/LC_MESSAGES/mx-launcher-l10n-zh_CN.mo with a custom command
+[110/112] Generating translations/po/yo/LC_MESSAGES/mx-launcher-l10n-yo.mo with a custom command
+[111/112] Generating translations/po/zh_HK/LC_MESSAGES/mx-launcher-l10n-zh_HK.mo with a custom command
+[112/112] Generating translations/po/zh_TW/LC_MESSAGES/mx-launcher-l10n-zh_TW.mo with a custom command
+ninja: no work to do.
+No tests defined.
+   create-stamp debian/debhelper-build-stamp
+ fakeroot debian/rules binary
+dh binary  --buildsystem=meson --builddirectory=mesonbuild
+[0/1] Installing files.
+Installing translations/po/af/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/af/LC_MESSAGES
+Installing translations/po/am/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/am/LC_MESSAGES
+Installing translations/po/ar/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ar/LC_MESSAGES
+Installing translations/po/be/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/be/LC_MESSAGES
+Installing translations/po/bg/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/bg/LC_MESSAGES
+Installing translations/po/bn/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/bn/LC_MESSAGES
+Installing translations/po/bs/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/bs/LC_MESSAGES
+Installing translations/po/ca/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ca/LC_MESSAGES
+Installing translations/po/ceb/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ceb/LC_MESSAGES
+Installing translations/po/co/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/co/LC_MESSAGES
+Installing translations/po/cs/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/cs/LC_MESSAGES
+Installing translations/po/cy/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/cy/LC_MESSAGES
+Installing translations/po/da/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/da/LC_MESSAGES
+Installing translations/po/de/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/de/LC_MESSAGES
+Installing translations/po/el/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/el/LC_MESSAGES
+Installing translations/po/eo/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/eo/LC_MESSAGES
+Installing translations/po/es_ES/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/es_ES/LC_MESSAGES
+Installing translations/po/es/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/es/LC_MESSAGES
+Installing translations/po/et/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/et/LC_MESSAGES
+Installing translations/po/eu/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/eu/LC_MESSAGES
+Installing translations/po/fa/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/fa/LC_MESSAGES
+Installing translations/po/fil_PH/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/fil_PH/LC_MESSAGES
+Installing translations/po/fil/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/fil/LC_MESSAGES
+Installing translations/po/fi/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/fi/LC_MESSAGES
+Installing translations/po/fr_BE/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/fr_BE/LC_MESSAGES
+Installing translations/po/fr/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/fr/LC_MESSAGES
+Installing translations/po/fy/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/fy/LC_MESSAGES
+Installing translations/po/ga/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ga/LC_MESSAGES
+Installing translations/po/gd/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/gd/LC_MESSAGES
+Installing translations/po/gl_ES/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/gl_ES/LC_MESSAGES
+Installing translations/po/gl/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/gl/LC_MESSAGES
+Installing translations/po/gu/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/gu/LC_MESSAGES
+Installing translations/po/ha/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ha/LC_MESSAGES
+Installing translations/po/haw/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/haw/LC_MESSAGES
+Installing translations/po/he_IL/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/he_IL/LC_MESSAGES
+Installing translations/po/he/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/he/LC_MESSAGES
+Installing translations/po/hi/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/hi/LC_MESSAGES
+Installing translations/po/hr/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/hr/LC_MESSAGES
+Installing translations/po/ht/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ht/LC_MESSAGES
+Installing translations/po/hu/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/hu/LC_MESSAGES
+Installing translations/po/hy/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/hy/LC_MESSAGES
+Installing translations/po/id/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/id/LC_MESSAGES
+Installing translations/po/is/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/is/LC_MESSAGES
+Installing translations/po/it/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/it/LC_MESSAGES
+Installing translations/po/ja/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ja/LC_MESSAGES
+Installing translations/po/jv/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/jv/LC_MESSAGES
+Installing translations/po/ka/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ka/LC_MESSAGES
+Installing translations/po/kk/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/kk/LC_MESSAGES
+Installing translations/po/km/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/km/LC_MESSAGES
+Installing translations/po/kn/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/kn/LC_MESSAGES
+Installing translations/po/ko/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ko/LC_MESSAGES
+Installing translations/po/ku/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ku/LC_MESSAGES
+Installing translations/po/ky/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ky/LC_MESSAGES
+Installing translations/po/lb/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/lb/LC_MESSAGES
+Installing translations/po/lo/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/lo/LC_MESSAGES
+Installing translations/po/lt/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/lt/LC_MESSAGES
+Installing translations/po/lv/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/lv/LC_MESSAGES
+Installing translations/po/mg/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/mg/LC_MESSAGES
+Installing translations/po/mi/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/mi/LC_MESSAGES
+Installing translations/po/mk/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/mk/LC_MESSAGES
+Installing translations/po/ml/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ml/LC_MESSAGES
+Installing translations/po/mn/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/mn/LC_MESSAGES
+Installing translations/po/mr/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/mr/LC_MESSAGES
+Installing translations/po/ms/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ms/LC_MESSAGES
+Installing translations/po/mt/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/mt/LC_MESSAGES
+Installing translations/po/my/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/my/LC_MESSAGES
+Installing translations/po/nb_NO/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/nb_NO/LC_MESSAGES
+Installing translations/po/nb/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/nb/LC_MESSAGES
+Installing translations/po/ne/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ne/LC_MESSAGES
+Installing translations/po/nl_BE/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/nl_BE/LC_MESSAGES
+Installing translations/po/nl/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/nl/LC_MESSAGES
+Installing translations/po/ny/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ny/LC_MESSAGES
+Installing translations/po/or/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/or/LC_MESSAGES
+Installing translations/po/pa/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/pa/LC_MESSAGES
+Installing translations/po/pl/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/pl/LC_MESSAGES
+Installing translations/po/ps/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ps/LC_MESSAGES
+Installing translations/po/pt_BR/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/pt_BR/LC_MESSAGES
+Installing translations/po/pt/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/pt/LC_MESSAGES
+Installing translations/po/ro/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ro/LC_MESSAGES
+Installing translations/po/ru/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ru/LC_MESSAGES
+Installing translations/po/rw/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/rw/LC_MESSAGES
+Installing translations/po/sd/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sd/LC_MESSAGES
+Installing translations/po/si/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/si/LC_MESSAGES
+Installing translations/po/sk/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sk/LC_MESSAGES
+Installing translations/po/sl/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sl/LC_MESSAGES
+Installing translations/po/sm/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sm/LC_MESSAGES
+Installing translations/po/sn/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sn/LC_MESSAGES
+Installing translations/po/so/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/so/LC_MESSAGES
+Installing translations/po/sq/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sq/LC_MESSAGES
+Installing translations/po/sr/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sr/LC_MESSAGES
+Installing translations/po/st/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/st/LC_MESSAGES
+Installing translations/po/su/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/su/LC_MESSAGES
+Installing translations/po/sv/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sv/LC_MESSAGES
+Installing translations/po/sw/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/sw/LC_MESSAGES
+Installing translations/po/ta/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ta/LC_MESSAGES
+Installing translations/po/te/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/te/LC_MESSAGES
+Installing translations/po/tg/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/tg/LC_MESSAGES
+Installing translations/po/th/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/th/LC_MESSAGES
+Installing translations/po/tk/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/tk/LC_MESSAGES
+Installing translations/po/tr/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/tr/LC_MESSAGES
+Installing translations/po/tt/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/tt/LC_MESSAGES
+Installing translations/po/ug/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ug/LC_MESSAGES
+Installing translations/po/uk/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/uk/LC_MESSAGES
+Installing translations/po/ur/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/ur/LC_MESSAGES
+Installing translations/po/uz/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/uz/LC_MESSAGES
+Installing translations/po/vi/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/vi/LC_MESSAGES
+Installing translations/po/xh/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/xh/LC_MESSAGES
+Installing translations/po/yi/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/yi/LC_MESSAGES
+Installing translations/po/yo/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/yo/LC_MESSAGES
+Installing translations/po/zh_CN/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/zh_CN/LC_MESSAGES
+Installing translations/po/zh_HK/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/zh_HK/LC_MESSAGES
+Installing translations/po/zh_TW/LC_MESSAGES/mx-launcher-l10n.mo to /tmpdir/build/mx-launcher-l10n/debian/mx-launcher-l10n/usr/share/locale/zh_TW/LC_MESSAGES
+dpkg-deb: Paket »mx-launcher-l10n« wird in »../mx-launcher-l10n_23.04_all.deb« gebaut.
+ dpkg-genbuildinfo -O../mx-launcher-l10n_23.04_amd64.buildinfo
+ dpkg-genchanges -si -O../mx-launcher-l10n_23.04_amd64.changes
+dpkg-genchanges: Information: kompletter Quellcode beim Hochladen hinzufügen
+ dpkg-source --after-build .
+dpkg-buildpackage: Information: Alles hochzuladen; Debian-native-Paket (komplette Quelle enthalten)
+Now signing changes and any dsc files...
+ signfile dsc mx-launcher-l10n_23.04.dsc fehlix <fehlix@mxlinux.org>
+
+ fixup_buildinfo mx-launcher-l10n_23.04.dsc mx-launcher-l10n_23.04_amd64.buildinfo
+ signfile buildinfo mx-launcher-l10n_23.04_amd64.buildinfo fehlix <fehlix@mxlinux.org>
+
+ fixup_changes dsc mx-launcher-l10n_23.04.dsc mx-launcher-l10n_23.04_amd64.changes
+ fixup_changes buildinfo mx-launcher-l10n_23.04_amd64.buildinfo mx-launcher-l10n_23.04_amd64.changes
+ signfile changes mx-launcher-l10n_23.04_amd64.changes fehlix <fehlix@mxlinux.org>
+
+Successfully signed dsc, buildinfo, changes files
