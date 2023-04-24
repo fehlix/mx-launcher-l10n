@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Robin, 2023
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 23:29-0500\n"
+"PO-Revision-Date: 2022-12-09 04:37+0000\n"
+"Last-Translator: Robin, 2023\n"
+"Language-Team: Indonesian (https://app.transifex.com/anticapitalista/teams/10162/id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Format USB"
+msgstr "Format USB"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Format USB devices"
+msgstr "Memformat perangkat USB"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Boot Repair"
+msgstr "Perbaikan Boot Sederhana"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "Pemasang Codec MX"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple install of restricted codecs"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Date & Time"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Date & Time Settings"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Snapshot"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a live iso snapshot of your running system."
+msgstr "Buat snapshot iso langsung dari sistem Anda yang sedang berjalan."
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Live USB Maker"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a full-featured live-usb"
+msgstr "Buat live-usb berfitur lengkap"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Network Assistant"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Network configuration and troubleshooting"
+msgstr "Konfigurasi jaringan dan pemecahan masalah"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Package Installer"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Software Application Package Installer"
+msgstr "Penginstal Paket Aplikasi Perangkat Lunak Sederhana"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Repo Manager"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Choose the default APT repo"
+msgstr "Choose the default APT repo"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX User Manager"
+msgstr "Manajer Pengguna MX"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple user configuration"
+msgstr "Konfigurasi pengguna sederhana"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "System Keyboard"
+msgstr "Papan Ketik Sistem"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Configure System Keyboard"
+msgstr "Konfigurasikan Keyboard Sistem"

@@ -1,0 +1,15 @@
+Source: mx-launcher-l10n
+Section: x11
+Priority: optional
+Maintainer: fehlix <fehlix@mxlinux.org>
+Build-Depends:
+ debhelper-compat (=13),
+ meson (>= 1.0),
+Standards-Version: 3.9.6
+
+Package: mx-launcher-l10n
+Architecture: all
+Pre-Depends: ${misc:Pre-Depends}
+Depends:
+ ${misc:Depends}
+Description: mx launcher pkexec authentication localization

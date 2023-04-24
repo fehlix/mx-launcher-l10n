@@ -1,0 +1,171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Dolphin Oracle <dolphinoracle@gmail.com>, 2022
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 23:29-0500\n"
+"PO-Revision-Date: 2022-12-09 04:37+0000\n"
+"Last-Translator: Dolphin Oracle <dolphinoracle@gmail.com>, 2022\n"
+"Language-Team: Finnish (https://app.transifex.com/anticapitalista/teams/10162/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Format USB"
+msgstr "Alusta USB-tikku"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Format USB devices"
+msgstr "Alusta USB-laitteita"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Options"
+msgstr "MX Käynnistysasetukset"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Common start-up choices"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr "Käynnistyksen korjaus"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Boot Repair"
+msgstr "Yksinkertainen käynnistyksen korjaus"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Cleanup"
+msgstr "MX Puhdistus"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Quick and safe removal of old files"
+msgstr "Vanhojen tiedostojen nopea ja turvallinen poistaminen"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "MX-Koodekkien asennusohjelma"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple install of restricted codecs"
+msgstr "Helppo rajoitettujen koodekkien asennusohjelma"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Date & Time"
+msgstr "MX päivämäärä & kellonaika"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Date & Time Settings"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Snapshot"
+msgstr "MX Tilannevedos"
+
+#. # The desktop entry comment will be shown within the menu.
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a live iso snapshot of your running system."
+msgstr "Luo elävä iso-vedos käynnissä olevasta järjestelmästäsi."
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Live USB Maker"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a full-featured live-usb"
+msgstr "Luo monipuolinen live-usb"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Network Assistant"
+msgstr "MX Verkkoavustin"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Network configuration and troubleshooting"
+msgstr "Verkon asetukset ja vianetsintä"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Package Installer"
+msgstr "MX Pakettien asennus"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Software Application Package Installer"
+msgstr "Yksinkertainen ohjelmistosovelluspaketin asennusohjelma"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Repo Manager"
+msgstr "MX Pakettivarastojen hallinta"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Choose the default APT repo"
+msgstr "Choose the default APT repo"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Tweak"
+msgstr "MX Hienosäätö"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Assorted useful tweaks"
+msgstr ""
+
+msgid "Desktop"
+msgstr "Työpöytä"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Brightness Systray"
+msgstr "Kirkkaus Systray"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "brightness systray application"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "mx-tweak brightness systray"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "starts mx-tweak brightness systray app"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "compton"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "compton startup"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "restore-software-brightness"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "restore xrandr brightness values stored mx-tweak display tab"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX User Manager"
+msgstr "MX Käyttäjänhallinta"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple user configuration"
+msgstr "Yksinkertainen käyttäjän konfigurointi"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "System Keyboard"
+msgstr "Järjestelmän näppäimistö"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Configure System Keyboard"
+msgstr "Määritä järjestelmän näppäimistö"

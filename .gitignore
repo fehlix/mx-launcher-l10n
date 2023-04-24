@@ -1,0 +1,6 @@
+mesonbuild/
+.tx/
+*.bak/
+*~/
+*.bak
+*~

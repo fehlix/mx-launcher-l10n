@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Green <usergreen@users.osdn.me>, 2022
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 23:29-0500\n"
+"PO-Revision-Date: 2022-12-09 04:37+0000\n"
+"Last-Translator: Green <usergreen@users.osdn.me>, 2022\n"
+"Language-Team: Japanese (https://app.transifex.com/anticapitalista/teams/10162/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Format USB"
+msgstr "フォーマット USB"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Format USB devices"
+msgstr "USB デバイスのフォーマット（初期化）ツール"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Options"
+msgstr "MX 起動設定ツール"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Common start-up choices"
+msgstr "通常の起動時のオプションです"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr "MX ブートリペア"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Boot Repair"
+msgstr "シンプルな起動修復ツールです"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Cleanup"
+msgstr "MX クリーンアップ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Quick and safe removal of old files"
+msgstr "古いファイルを迅速かつ安全に削除します"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "MX コーデックインストーラ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple install of restricted codecs"
+msgstr "のシンプルなコーデックダウンローダー"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Date & Time"
+msgstr "MX 日付と時刻の設定"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Date & Time Settings"
+msgstr "システムの日付と時刻の設定を行います"
+
+#. The desktop entry name will be displayed within the menu.
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Snapshot"
+msgstr "MX スナップショット"
+
+#. # The desktop entry comment will be shown within the menu.
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a live iso snapshot of your running system."
+msgstr "稼働しているシステムを丸ごとコピーしたライブ ISO を作成します。"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Live USB Maker"
+msgstr "MX ライブ USB メーカー"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a full-featured live-usb"
+msgstr "フル機能のライブ USB を作成します"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Network Assistant"
+msgstr "MX ネットワーク・アシスタント"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Network configuration and troubleshooting"
+msgstr "ネットワークの設定とトラブルシューティング"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Package Installer"
+msgstr "MX パッケージインストーラ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Software Application Package Installer"
+msgstr "簡単な操作でソフトウェアをインストールできます"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Repo Manager"
+msgstr "MX リボジトリマネージャー"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Choose the default APT repo"
+msgstr "通常使用する APT リポジトリを選択します"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Samba Config"
+msgstr "MX Samba 設定"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Manage user Samba shares"
+msgstr "ユーザーの Samba 共有を管理します"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Tweak"
+msgstr "MX Tweak"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Assorted useful tweaks"
+msgstr "色々と便利な tweak があります"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Brightness Systray"
+msgstr "明るさ調節トレイアイコン"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "brightness systray application"
+msgstr "明るさ調節を行うトレイアプレット"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "mx-tweak brightness systray"
+msgstr "mx-tweak 明るさ調節トレイ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "starts mx-tweak brightness systray app"
+msgstr "明るさの調節を行うトレイアプレットを起動します"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "compton"
+msgstr "コンプトン"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "compton startup"
+msgstr "コンプトンを起動"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "restore-software-brightness"
+msgstr "restore-software-brightness"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "restore xrandr brightness values stored mx-tweak display tab"
+msgstr "mx-tweak display タブに保存された xrandr の輝度設定を復元します"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX User Manager"
+msgstr "MX ユーザーマネージャー"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple user configuration"
+msgstr "シンプルなユーザー設定ツールです"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "System Keyboard"
+msgstr "キーボードの設定"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Configure System Keyboard"
+msgstr "使用するキーボートの種類や配列を設定します"

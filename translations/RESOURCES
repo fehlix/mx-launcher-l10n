@@ -1,0 +1,17 @@
+# transifex resources to pull
+# 
+formatusb-desktop
+mx-boot-options-desktop       
+mx-bootrepair-desktop        
+mx-cleanup-desktop            
+mx-codecs-desktop             
+mx-datetime-desktop           
+mx-live-usb-maker-desktop     
+mx-network-assistant-desktop  
+mx-packageinstaller-desktop   
+mx-repo-manager-desktop       
+mx-samba-config-desktop
+mx-snapshot-desktop           
+mx-tweak-desktop
+mx-user-desktop               
+system-keyboard-qt-desktop    

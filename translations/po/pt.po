@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Dolphin Oracle <dolphinoracle@gmail.com>, 2022
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 23:29-0500\n"
+"PO-Revision-Date: 2022-12-09 04:37+0000\n"
+"Last-Translator: Dolphin Oracle <dolphinoracle@gmail.com>, 2022\n"
+"Language-Team: Portuguese (https://app.transifex.com/anticapitalista/teams/10162/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Format USB"
+msgstr "Formatar USB"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Format USB devices"
+msgstr "Formatar dispositivos USB [formatusb]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Options"
+msgstr "MX Opções de Arranque"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Common start-up choices"
+msgstr "Opções normais de arranque"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr "MX-Reparador do Arranque"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Boot Repair"
+msgstr "Reparador do Arranque fácil de usar [mx-bootrepair]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Cleanup"
+msgstr "MX-Limpar"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Quick and safe removal of old files"
+msgstr "Remoção rápida e segura de ficheiros antigos ou já desnecessários [mx-cleanup]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "MX-Instalador de Codecs"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple install of restricted codecs"
+msgstr "Instalação fácil de codecs restritos [mx-codecs]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Date & Time"
+msgstr "MX Data & Hora"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Date & Time Settings"
+msgstr "Definições de Data & Hora"
+
+#. The desktop entry name will be displayed within the menu.
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Snapshot"
+msgstr "MX-Criar Imagem ISO"
+
+#. # The desktop entry comment will be shown within the menu.
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a live iso snapshot of your running system."
+msgstr "Criar imagem ISO do sistema em execução; quando instalada num meio externo (CD/DVD/USB) é executável directamente [mx-snapshot]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Live USB Maker"
+msgstr "MX-Criar USB-executável"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a full-featured live-usb"
+msgstr "Criar um sistema operativo, com todas as funcionalidades, num dispositivo USB [mx-live-usb-maker]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Network Assistant"
+msgstr "MX-Assistente de Redes"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Network configuration and troubleshooting"
+msgstr "Configuração e resolução de problemas de redes [mx-network-assistant]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Package Installer"
+msgstr "MX-Instalador de Pacotes"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Software Application Package Installer"
+msgstr "Instalador de pacote de aplicativo de software simples"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Repo Manager"
+msgstr "MX-Gestor de Repositórios"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Choose the default APT repo"
+msgstr "Pré-definir o repositório APT a usar [mx-repo-manager]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Samba Config"
+msgstr "MX Configurar o Samba"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Manage user Samba shares"
+msgstr "Gerir Pastas Partilhadas Samba"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Tweak"
+msgstr "MX Ajustes Rápidos"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Assorted useful tweaks"
+msgstr "Alteração fácil e prática de vários elementos [mx-tweak]"
+
+msgid "Desktop"
+msgstr "Ambiente"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Brightness Systray"
+msgstr "Brilho Systray"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "brightness systray application"
+msgstr "aplicação systray brilho"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "mx-tweak brightness systray"
+msgstr "Regulação de brilho na bandeja"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "starts mx-tweak brightness systray app"
+msgstr "inicia a aplicação da área de notificação do sistema do controlo de brilho mx-ajustes"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "compton"
+msgstr "compton"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "compton startup"
+msgstr "arranque do compton"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "restore-software-brightness"
+msgstr "restore-software-brightness"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "restore xrandr brightness values stored mx-tweak display tab"
+msgstr "Restaurar valores do brilho do xrandr armazenados no separador do mx-tweak"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX User Manager"
+msgstr "MX-Gestor de utilizadores"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple user configuration"
+msgstr "Configuração simples de utilizadores [mx-user]"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "System Keyboard"
+msgstr "Teclado do sistema"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Configure System Keyboard"
+msgstr "Configurar o teclado do sistema"

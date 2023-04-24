@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Robin, 2023
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 23:29-0500\n"
+"PO-Revision-Date: 2022-12-09 04:37+0000\n"
+"Last-Translator: Robin, 2023\n"
+"Language-Team: Amharic (https://app.transifex.com/anticapitalista/teams/10162/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Format USB"
+msgstr "ዩኤስቢ ቅረጽ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Format USB devices"
+msgstr "የዩኤስቢ መሣሪያዎችን ይቅረጹ"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr "MX ማስነሻ መጠገኛ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Boot Repair"
+msgstr "ቀላል ማስነሻ መጠገኛ"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "MX ኮድ መግጠሚያ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple install of restricted codecs"
+msgstr "ቀላል የ ተወሰነ ኮድ መግጠሚያ"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Date & Time"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Date & Time Settings"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Snapshot"
+msgstr "MX የ መመልከቻ ፎቶ"
+
+#. # The desktop entry comment will be shown within the menu.
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a live iso snapshot of your running system."
+msgstr "በ ቀጥታ የ iso መመልከቻ ፎቶ መፍጠሪያ በ እርስዎ ኮምፒዩተር ላይ የሚሄደውን ስርአት"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Live USB Maker"
+msgstr "MX በ ቀጥታ-usb መፍጠሪያ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Create a full-featured live-usb"
+msgstr "ሙሉlገጽታ በ ቀጥታ-usb መፍጠሪያ"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Network Assistant"
+msgstr "MX የ ኔትዎርክ እርዳት"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Network configuration and troubleshooting"
+msgstr "የ ኔትዎርክ ማሰናጃ እና ችግሩን ማግኛ"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Package Installer"
+msgstr "MX ጥቅል መግጠሚያ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple Software Application Package Installer"
+msgstr "Պարզ ծրագրային ապահովման կիրառական փաթեթի տեղադրիչ "
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Repo Manager"
+msgstr "MX የ ማጠራቀሚያ አስተዳዳሪ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Choose the default APT repo"
+msgstr "Choose the default APT repo"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX Tweak"
+msgstr "MX ማሻሻያ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Assorted useful tweaks"
+msgstr "የ ተለየ ጠቃሚ ማሰናጃ"
+
+msgid "Desktop"
+msgstr "ዴስክቶፕ"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "Brightness Systray"
+msgstr "պայծառություն Systray"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "brightness systray application"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "mx-tweak brightness systray"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "starts mx-tweak brightness systray app"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "compton"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "compton startup"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "restore-software-brightness"
+msgstr ""
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "restore xrandr brightness values stored mx-tweak display tab"
+msgstr ""
+
+#. The desktop entry name will be displayed within the menu.
+msgid "MX User Manager"
+msgstr "MX የ ተጠቃሚ አስተዳዳሪ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Simple user configuration"
+msgstr "ቀላል ተጠቃሚ ማሰናጃ"
+
+#. The desktop entry name will be displayed within the menu.
+msgid "System Keyboard"
+msgstr "የስርዓት ቁልፍ ሰሌዳ"
+
+#. # The desktop entry comment will be shown within the menu.
+msgid "Configure System Keyboard"
+msgstr "የስርዓት ቁልፍ ሰሌዳውን ያዋቅሩ"
