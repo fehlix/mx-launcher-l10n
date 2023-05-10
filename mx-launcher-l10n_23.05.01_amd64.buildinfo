@@ -5,19 +5,19 @@ Format: 1.0
 Source: mx-launcher-l10n
 Binary: mx-launcher-l10n
 Architecture: all source
-Version: 23.04
+Version: 23.05.01
 Checksums-Md5:
- b1b9a370891c56d110cb32ee90879ec1 1485 mx-launcher-l10n_23.04.dsc
- 3f1c312c3832dcf7e9dc560d66c2dd6c 44528 mx-launcher-l10n_23.04_all.deb
+ 8c7f19faf2d595c0e0f7aac13341f638 1518 mx-launcher-l10n_23.05.01.dsc
+ 5a0c6f709c7846b0b9a1a245a6d0b806 17736 mx-launcher-l10n_23.05.01_all.deb
 Checksums-Sha1:
- 46008aaa390c98eeac2717953816783d6463cbe2 1485 mx-launcher-l10n_23.04.dsc
- 0eda5e0b0e2795f61667a2902c771d7bafd94f86 44528 mx-launcher-l10n_23.04_all.deb
+ 700cf2e47afadb4003b1baed260d837f569bae06 1518 mx-launcher-l10n_23.05.01.dsc
+ 79a39323b48455e42d8db3dd257f726be14d309b 17736 mx-launcher-l10n_23.05.01_all.deb
 Checksums-Sha256:
- 9a38c92e4906ea246c3b28fbd2530f84df3d39e2b6cb3db405e1939c76a46657 1485 mx-launcher-l10n_23.04.dsc
- 5da2cf71d28af779c5a87264221ebdbfe620fa26505a4df865e350c6ab1d1039 44528 mx-launcher-l10n_23.04_all.deb
+ 3d61feb4884be6b9155b1739f10c960115a9cd14fccc9b1464a58751fbde9d60 1518 mx-launcher-l10n_23.05.01.dsc
+ b3926f4b3f9de7284a0fb3b3c96884d8eb3beff70d229adf1a5933068735e70d 17736 mx-launcher-l10n_23.05.01_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 24 Apr 2023 22:11:26 +0200
+Build-Date: Thu, 11 May 2023 00:53:49 +0200
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -29,7 +29,7 @@ Installed-Build-Depends:
  autotools-dev (= 20220109.1),
  base-files (= 12.4),
  base-passwd (= 3.6.1),
- bash (= 5.2.15-2+b1),
+ bash (= 5.2.15-2+b2),
  binutils (= 2.40-2),
  binutils-common (= 2.40-2),
  binutils-x86-64-linux-gnu (= 2.40-2),
@@ -91,7 +91,7 @@ Installed-Build-Depends:
  libctf-nobfd0 (= 2.40-2),
  libctf0 (= 2.40-2),
  libdb5.3 (= 5.3.28+dfsg2-1),
- libdebconfclient0 (= 0.268),
+ libdebconfclient0 (= 0.269),
  libdebhelper-perl (= 13.11.4),
  libdpkg-perl (= 1.21.21),
  libelf1 (= 0.188-2.1),
@@ -161,9 +161,9 @@ Installed-Build-Depends:
  libudev1 (= 1:252.6-1mx23+1),
  libunistring2 (= 1.0-2),
  libuuid1 (= 2.38.1-5+b1),
- libxml2 (= 2.9.14+dfsg-1.1+b3),
+ libxml2 (= 2.9.14+dfsg-1.2),
  libzstd1 (= 1.5.4+dfsg2-5),
- linux-libc-dev (= 6.1.20-2),
+ linux-libc-dev (= 6.1.25-1),
  login (= 1:4.13+dfsg1-1+b1),
  m4 (= 1.4.19-3),
  mailcap (= 3.70+nmu1),
@@ -183,8 +183,8 @@ Installed-Build-Depends:
  perl-modules-5.36 (= 5.36.0-7),
  po-debconf (= 1.0.21+nmu1),
  python3 (= 3.11.2-1+b1),
- python3-distutils (= 3.11.2-2),
- python3-lib2to3 (= 3.11.2-2),
+ python3-distutils (= 3.11.2-3),
+ python3-lib2to3 (= 3.11.2-3),
  python3-minimal (= 3.11.2-1+b1),
  python3-pkg-resources (= 66.1.1-1),
  python3-setuptools (= 66.1.1-1),
@@ -204,22 +204,22 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="de_DE.UTF-8"
- SOURCE_DATE_EPOCH="1682349721"
+ SOURCE_DATE_EPOCH="1683738642"
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmRG4nUTHGZlaGxpeEBt
-eGxpbnV4Lm9yZwAKCRAvV48brJ2b6adMEACbcR4+z/3/qufF5afQMaXltM14AQ2p
-ah9OWZl3N9V5jmhzg3NpdDkR7NN/W6tbnsuRPbIkxCzljNFoFLAhhdQxmoAfe5+h
-dH1npKEI56OlIu3gIuG7ZiNQnsAPyOgndzicvCdZIxG54FOfm/jO49vTEjLUbBx7
-ElM3jXA2WwB6ydT9PFFZw8ozV9TdcHgwGf8joPfieMCzMmf1G1HOvvvG2da+Twwx
-aaVZaEQCsFt6kyf37EJe56PWnDMn6Gu7GhxhJh58yyxUoT5EdXs/HsvAvfK3Hv4B
-dxhR+aztIZYgHOwVuUzb2v6AsUXQHNCck4LE5ohf047hy3iOxV5yfA0moEAH9c1p
-omNYr96CMsLe8saxZ5DmI4n6VXmI6J6wIwsXICI+ai+bf2YDJuIChssspZLMa0mc
-1HF6PmaMbzeOcbzsRDyy+M4KNCl4OJDznGHuQ9Wrqwv+K99jmKDIBssP7+x6Rzg0
-Z2EdvY1/NvcCrDk8P1LF5mu8YvpgRZOolHIhZFPc7HmtMH7k9sw+SVdKXRtg1Jdj
-RlyXxMID6rMZ/V0vC2vBeZt2qIK3zA6uzL1YtzWFJMgb9XlrxGQbouHo59x+nVA2
-qN483xj0h8UJimYQa6AbOy14uYdUOiSDduvOO9X7SRqzMotYxtKipmNHlyQptkjl
-z0qdh6N7HFycNA==
-=8L1E
+iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmRcIIwTHGZlaGxpeEBt
+eGxpbnV4Lm9yZwAKCRAvV48brJ2b6XhFD/99sT2ShCgLTE81vaD3RS8gMP6uUqP/
+Ia7vTEVNy1fPqzQUq/5HkeaehDEX4PAnRHSVpHD8qNDaAU1/uwtPiVLPK7qElHyj
+lXTPWlBQQHjC5PIapH4OwIs0oktDw7sh12HzA5C7ipKJgs9/cZ1hJT4ZfJJbK5iI
+1+dvdhl7CAD90e2kpkFo6OQjeBBDM2VBgx1cPY/7X5DEK7HrhlZsN6eiCdUKnTsX
++KemfkljPWPiuq+r6e4ruQIYL7ZOJxQCyq1M9U2FKjJ/LuyabxDL54EGFFCJIhsw
+jvizJtoNRFsgorz+KCc4TwmiX++gUMpSLpdLkZzrl/PVjmYjpixfuXwYJBrgXkr5
+ahAnQ1C8nPVv8tYkGmcCBCwlRVaV7SFzPx54MhUMy+egOn35QbjGMjuDBuqV/f6u
+MUEQ/CyucwpqZh5FfYXZhtmnbcrK6ZoA8alU+WAf/DA6B48s07zJsNb67FHOb0TN
+3zuR3kBnfs3OHIA1R/8e+B4jI4ahCCYOGbZZX/Kcx5jq5FVbDx8RK0RhSzKfbAV2
+FMtkFa1tK199+Jn24+m7aqkuacWgvLO9iR+Y3fjsDxM+ByVUxsr7It2R5N61zhJz
+bCmu2spydX5/g5jvUAEZ2P06SS0OCvQI8C00Mi328aKqKlfJBvG6bO2w0/7jrZgq
+m/u4rUanuD6kiA==
+=oe8I
 -----END PGP SIGNATURE-----

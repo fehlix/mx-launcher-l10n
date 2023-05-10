@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 10 May 2023 12:10:42 -0500
+Source: mx-launcher-l10n
+Binary: mx-launcher-l10n
+Architecture: source all
+Version: 23.05.01
+Distribution: mx
+Urgency: medium
+Maintainer: fehlix <fehlix@mxlinux.org>
+Changed-By: fehlix <fehlix@mxlinux.org>
+Description:
+ mx-launcher-l10n - mx launcher pkexec authentication localization
+Changes:
+ mx-launcher-l10n (23.05.01) mx; urgency=medium
+ .
+   * added translation resources to fetch from tansifex
+Checksums-Sha1:
+ 700cf2e47afadb4003b1baed260d837f569bae06 1518 mx-launcher-l10n_23.05.01.dsc
+ c74d8aa9dbe2f4320678072a183b9815499a9e35 36216 mx-launcher-l10n_23.05.01.tar.xz
+ 79a39323b48455e42d8db3dd257f726be14d309b 17736 mx-launcher-l10n_23.05.01_all.deb
+ 169b7671a980e404ca8b393bff7b78e1730fc095 6617 mx-launcher-l10n_23.05.01_amd64.buildinfo
+Checksums-Sha256:
+ 3d61feb4884be6b9155b1739f10c960115a9cd14fccc9b1464a58751fbde9d60 1518 mx-launcher-l10n_23.05.01.dsc
+ a0abd31f57b716bd2ed167c86a47ea1cda5a98e077f0e31d39a42ff38f4e0581 36216 mx-launcher-l10n_23.05.01.tar.xz
+ b3926f4b3f9de7284a0fb3b3c96884d8eb3beff70d229adf1a5933068735e70d 17736 mx-launcher-l10n_23.05.01_all.deb
+ cf9a1f2e06d57849410d72e2f6ab69450e5437f31998f3c93ed7a549d308ac21 6617 mx-launcher-l10n_23.05.01_amd64.buildinfo
+Files:
+ 8c7f19faf2d595c0e0f7aac13341f638 1518 x11 optional mx-launcher-l10n_23.05.01.dsc
+ 6e3d3fc0bfe63677549965d514a80d3e 36216 x11 optional mx-launcher-l10n_23.05.01.tar.xz
+ 5a0c6f709c7846b0b9a1a245a6d0b806 17736 x11 optional mx-launcher-l10n_23.05.01_all.deb
+ 24f8b66860620bee24fc9ec4805693c7 6617 x11 optional mx-launcher-l10n_23.05.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmRcII0THGZlaGxpeEBt
+eGxpbnV4Lm9yZwAKCRAvV48brJ2b6fUzD/9IhGyE1F5fUpYh7SZ2CvLcnndtX2M5
+WZxguqKg6XLZ6SGa7QaFeMAc8YXHdsMt/FmgA8MEtCr02qW1csCGTtBc/eFidNEP
+3OIF8iXjoSj26jhK6SSnMcuqA0Rvl0+LSMj+Ncjl5NPnKo03zuDLP/6qIaZkCy6s
+LDrbxt8efbSBFHIEx5CTPOYMgqaA5cwAqigg4Rj3qpJ1al2QO40OWuRAs+HPZyKb
+bsx/1Qm5ps/S2e1jOJh1FLTDZoqDNNGU6zZ/tuJxwdc6F4+0487kI/FUVLj3fyLo
+KaEVmmB3mqTruXdg2YKu0oAWpDRX/xxqQWSq3tf69O8fGgL3Cpo/hd+mbwWUARJ0
+Cd4k+kBAYsDA6R0VqdYWg5Vc+QvDRQfQRvPM3slAYCdtWQSJ7cZI+mf5Em4kvuqR
++uJH0MpjV/w+q1RNTEmg/OVdtPrgoN5UTLQmBguHZxA300A0HZ0O+mV8awYuyBM0
+VAN8EIf4M7wS9S3AjidjMcJ5u7ZXK4hmkTUACIIAMj1y/3+30rQrRzS2OAddB5sc
+wttI6DApAY4/4UFVv2pNw48Gt+nq8A+EJBwCryrPj9TrLBQJ6pCQLjx7n0K5lgq9
+NolvivFMwNaS0JWvn2j4y2w+0WKdrPQ4pr11vVzds9v5WkKVH94Bmqgvn3c3drR9
+lTzOnFO6054Hmw==
+=GFcq
+-----END PGP SIGNATURE-----
