@@ -25,16 +25,16 @@ echo |
      sed 's/charset=CHARSET/charset=UTF-8/' > $HDR
 
 # pot body
-msgfilter --keep-header  --input=$PO --output=$BDY true
+msgfilter --force-po --keep-header  --input=$PO --output=$BDY true
 
 [ -f $POT ] && mv $POT $POT~
 
 # pot file
-msgcat --use-first --output=$POT $HDR $BDY
+msgcat --force-po --use-first --output=$POT $HDR $BDY
 
 if [ -f $POT~ ]; then
-	msgcat -s $POT~ > $POT.sort~
-	msgcat -s $POT  > $POT.sort
+	msgcat --force-po -s $POT~ > $POT.sort~
+	msgcat --force-po -s $POT  > $POT.sort
     POT_CHANGE=$(diff -I 'POT-Creation-Date:' $POT.sort~ $POT.sort | wc -l)
     if ((POT_CHANGE==0)); then
        echo "No change in POT-file: $POT"

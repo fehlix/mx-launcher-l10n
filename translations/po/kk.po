@@ -21,135 +21,56 @@ msgstr ""
 "Language: kk\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "Format USB"
 msgstr "USB пішімі"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "USB құрылғыларын пішімдеу"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
+msgid "Job Scheduler"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "Қарапайым жүктеуді жөндеу"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr "MX кодек орнатушысы"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "Жұмыс істеп тұрған жүйенің тікелей iso суретін жасаңыз."
+msgid "MX Boot Repair"
+msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "MX кодек орнатушысы"
+
+msgid "MX Date & Time"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "Толық мүмкіндіктері бар live-usb жасаңыз"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "Желіні конфигурациялау және ақауларды жою"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "Қарапайым бағдарламалық жасақтама бумасын орнатушы"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "Choose the default APT repo"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Tweak"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Assorted useful tweaks"
-msgstr ""
-
-msgid "Desktop"
-msgstr "Жұмыс үстелі"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "Brightness Systray"
 msgstr "жарықтық Systray"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "brightness systray application"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "mx-tweak brightness systray"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "starts mx-tweak brightness systray app"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "compton"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "compton startup"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "restore-software-brightness"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "restore xrandr brightness values stored mx-tweak display tab"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr "MX пайдаланушыларды басқару қолданбасы"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "Қарапайым пайдаланушы конфигурациясы"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "Жүйелік пернетақта"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "Жүйе пернетақтасын конфигурациялау"
+msgid "Adblock"
+msgstr "Жарнамалық блок"

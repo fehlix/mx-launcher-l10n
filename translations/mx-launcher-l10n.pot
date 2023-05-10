@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mx-launcher-l10n\n"
 "Report-Msgid-Bugs-To: https://forum.mxlinux.org/viewforum.php?f=96\n"
-"POT-Creation-Date: 2023-04-24 19:05+0200\n"
+"POT-Creation-Date: 2023-05-11 00:43+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,159 +17,86 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "Nvidia driver installer"
+msgstr ""
+
+msgid "Deb Installer"
+msgstr ""
+
 msgid "Format USB"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
+msgid "Job Scheduler"
 msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Options"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Common start-up choices"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Cleanup"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Quick and safe removal of old files"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
+msgid "MX Boot Options"
 msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr ""
+
+msgid "MX Cleanup"
+msgstr ""
+
+msgid "MX Codecs Installer"
+msgstr ""
+
+msgid "MX Date & Time"
+msgstr ""
+
+msgid "System Locales"
+msgstr ""
+
+msgid "xfce4-notifyd-start"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
+msgid "MX RemasterCC"
 msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Samba Config"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Manage user Samba shares"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Tweak"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Assorted useful tweaks"
-msgstr ""
-
-msgid "Desktop"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "Brightness Systray"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "brightness systray application"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "mx-tweak brightness systray"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "starts mx-tweak brightness systray app"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "compton"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "compton startup"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "restore-software-brightness"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "restore xrandr brightness values stored mx-tweak display tab"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
+msgid "Quick System Info"
 msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
+msgid "Disk Manager"
+msgstr ""
+
+msgid "Adblock"
 msgstr ""

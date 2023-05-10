@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # Translators:
-# Dolphin Oracle <dolphinoracle@gmail.com>, 2022
+# Ioannis LM, 2022
 # anticapitalista <anticapitalista@riseup.net>, 2023
 #
 #, fuzzy
@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 23:29-0500\n"
-"PO-Revision-Date: 2022-12-09 04:37+0000\n"
+"POT-Creation-Date: 2023-03-04 14:51-0500\n"
+"PO-Revision-Date: 2016-11-29 14:08+0000\n"
 "Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2023\n"
 "Language-Team: Greek (https://app.transifex.com/anticapitalista/teams/10162/el/)\n"
 "MIME-Version: 1.0\n"
@@ -22,159 +22,86 @@ msgstr ""
 "Language: el\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "Nvidia driver installer"
+msgstr "Nvidia driver installer"
+
+msgid "Deb Installer"
+msgstr "Πρόγραμμα εγκατάστασης Deb"
+
 msgid "Format USB"
 msgstr "Format USB"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "Διαμορφώστε τις συσκευές USB"
+msgid "Job Scheduler"
+msgstr "Προγραμματιστής εργασιών"
 
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Options"
-msgstr "Ρυθμίσεις εκκίνησης MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Common start-up choices"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
-msgstr "Επισκευή Εκκίνησης του MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "Απλή Επισκευή Εκκίνησης"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Cleanup"
-msgstr "Καθαρισμός του MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Quick and safe removal of old files"
-msgstr "Γρήγορη και ασφαλής αφαίρεση παλιών αρχείων"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr "Εγκατάσταση codecs του MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr "Απλή εφαρμογή λήψης codecs"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr "Ημερομηνία και ώρα του MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr "MX Snapshot"
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "Δημιουργήστε ένα στιγμιότυπο του τρέχοντος συστήματός σας σε ζωντανή ISO μορφή."
+msgid "MX Boot Options"
+msgstr "Ρυθμίσεις εκκίνησης MX"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr "Επισκευή Εκκίνησης του MX"
+
+msgid "MX Cleanup"
+msgstr "Καθαρισμός του MX"
+
+msgid "MX Codecs Installer"
+msgstr "Εγκατάσταση codecs του MX"
+
+msgid "MX Date & Time"
+msgstr "Ημερομηνία και ώρα του MX"
+
+msgid "System Locales"
+msgstr ""
+
+msgid "xfce4-notifyd-start"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr "MX Δημιουργός Live-usb"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "Δημιούργησε live-usb με πλήρη χαρακτηριστικά"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr "MX Network Assistant"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "Διαμόρφωση του δικτύου και Αντιμετώπιση προβλημάτων"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr "Εγκατάσταση πακέτων του MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "ΑΠρόγραμμα εγκατάστασης πακέτου απλού λογισμικού "
+msgid "MX RemasterCC"
+msgstr "MX RemasterCC"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr "Διαχειριστής αποθετηρίων MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "Επιλέξτε την προεπιλεγμένη αποθήκη του APT"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Samba Config"
 msgstr "MX Samba Config"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Manage user Samba shares"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Tweak"
 msgstr "MX Tweak"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Assorted useful tweaks"
-msgstr "Διάφορα χρήσιμα τσιμπήματα"
-
-msgid "Desktop"
-msgstr "Επιφάνεια εργασίας"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "Brightness Systray"
 msgstr "λάμψη Systray"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "brightness systray application"
-msgstr "εφαρμογή συστοιχίας φωτεινότητας"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "mx-tweak brightness systray"
 msgstr "mx-tweak εικονίδιο φωτεινότητας"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "starts mx-tweak brightness systray app"
-msgstr "εκκινει την εφαρμογη εικονιδίου φωτεινότητας του mx-tweak"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "compton"
 msgstr "στιχειοθετης compton"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "compton startup"
-msgstr "εκκινηση compton"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "restore-software-brightness"
 msgstr "ανάκτηση-λογισμικού-φωτεινότητας"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "restore xrandr brightness values stored mx-tweak display tab"
-msgstr "ανάκτηση των τιμών φωτεινότητας του xrandr αποθυκευμένες στην καρτέλα εμφάνισης του mx-tweak"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr "διαχειριστής του χρήστη για MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "Απλή διαμόρφωση χρήστη"
+msgid "Quick System Info"
+msgstr "Συνοπτικές πληροφορίες συστήματος"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "Πληκτρολόγιο συστήματος"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "Ρύθμιση πληκτρολογίου συστήματος"
+msgid "Disk Manager"
+msgstr "Διαχείριση δίσκων"
+
+msgid "Adblock"
+msgstr "Adblock"

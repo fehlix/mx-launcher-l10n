@@ -21,76 +21,35 @@ msgstr ""
 "Language: gu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "Format USB"
 msgstr "યુએસબી ફોર્મેટ કરો"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "યુએસબી ઉપકરણોને ફોર્મેટ કરો"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
+msgid "Job Scheduler"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "સરળ બુટ સમારકામ"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr "એમએક્સ કોડેક્સ ઈન્સ્ટોલર"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "તમારી ચાલી રહેલ સિસ્ટમનો લાઇવ આઇસો સ્નેપશોટ બનાવો."
+msgid "MX Boot Repair"
+msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "એમએક્સ કોડેક્સ ઈન્સ્ટોલર"
+
+msgid "MX Date & Time"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "સંપૂર્ણ સુવિધાયુક્ત લાઇવ-યુએસબી બનાવો"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "નેટવર્ક ગોઠવણી અને મુશ્કેલીનિવારણ"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "સરળ વપરાશકર્તા રૂપરેખાંકન"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "સિસ્ટમ કીબોર્ડ"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "સિસ્ટમ કીબોર્ડ ગોઠવો"
+msgid "Adblock"
+msgstr "એડબ્લોક"

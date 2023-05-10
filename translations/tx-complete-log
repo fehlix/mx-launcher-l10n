@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # set minium translations completion in percent to pull translation
-: ${MINIMUM_PERC:=30}
+: ${MINIMUM_PERC:=10}
 
 # get package name from changelog
 CHNGLOG=$(find {,../,../../}debian/changelog  -type f -name changelog -print -quit 2>/dev/null)
@@ -10,6 +10,10 @@ RESOURCE=mx-launcher-l10n
 
 PODIR=po
 POTFILE=${PKGNAME}.pot
+
+T=$(grep -cw ^msgid $POTFILE) ;
+((T<=1)) && echo "No Translations found in potfile '$POTFILE' - exit" && exit
+((T--))
 
 echodo() { echo "${@}";  ${@}; }
 
@@ -44,8 +48,6 @@ echo "# generated at $(TZ=EST date -R)"                    | tee -a $LOG
 printf '%6s\t\t%4s\t%7s\t\t%s\t\t%s\n' "Nr." "Cnt." "Compl." "Code" "Language" | tee -a $LOG
 printf '%6s\t\t%4s\t%7s\t\t%s\t\t%s\n' "---" "----" "------" "----" "--------" | tee -a $LOG
 
-T=$(grep -cw ^msgid $POTFILE) ;
-((T--))
 for P in $PODIR/*.po ; do
     [ -e "$P" ] || continue
     L=${P##*/};
@@ -61,3 +63,5 @@ for P in $PODIR/*.po ; do
         "$( isoquery --iso=639-${#ll} -n $ll | sed 's/L\t\t//' | cut -f3- )"  \
         "${rr:+ @ $(isoquery -i 3166-1 $rr   | cut -f4 )}";
 done | sort -t $'\t' -k2nr,2 -k4,4 | cat -n | tee -a $LOG
+
+[ -f $LOG~ ] && rm $LOG~

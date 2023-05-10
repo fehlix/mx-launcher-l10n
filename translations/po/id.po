@@ -21,92 +21,41 @@ msgstr ""
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "Format USB"
 msgstr "Format USB"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "Memformat perangkat USB"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
+msgid "Job Scheduler"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "Perbaikan Boot Sederhana"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr "Pemasang Codec MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "Buat snapshot iso langsung dari sistem Anda yang sedang berjalan."
+msgid "MX Boot Repair"
+msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "Pemasang Codec MX"
+
+msgid "MX Date & Time"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "Buat live-usb berfitur lengkap"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "Konfigurasi jaringan dan pemecahan masalah"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "Penginstal Paket Aplikasi Perangkat Lunak Sederhana"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "Choose the default APT repo"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr "Manajer Pengguna MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "Konfigurasi pengguna sederhana"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "Papan Ketik Sistem"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "Konfigurasikan Keyboard Sistem"
+msgid "Adblock"
+msgstr "Blok iklan"

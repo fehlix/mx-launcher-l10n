@@ -21,84 +21,38 @@ msgstr ""
 "Language: fa\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "Format USB"
 msgstr "USB ﺪﯿﻨﮐ ﺖﻣﺮﻓ ﺍﺭ"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "ﺪﯿﻨﮐ ﺖﻣﺮﻓ ﺍﺭ USB ﯼﺎﻫ ﻩﺎﮕﺘﺳﺩ"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
+msgid "Job Scheduler"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "ﻩﺩﺎﺳ ﺕﻮﺑ ﺮﯿﻤﻌﺗ"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr ".ﺪﯿﻨﮐ ﺩﺎﺠﯾﺍ ﺩﻮﺧ ﺍﺮﺟﺍ ﻝﺎﺣ ﺭﺩ ﻢﺘﺴﯿﺳ ﺯﺍ ﻩﺪﻧﺯ iso ﯼﺭﻮﻓ ﺲﮑﻋ ﮏﯾ"
+msgid "MX Boot Repair"
+msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Date & Time"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "ﺪﯿﻨﮐ ﺩﺎﺠﯾﺍ ﻞﻣﺎﮐ ﺕﺎﻧﺎﮑﻣﺍ ﺎﺑ ﻩﺪﻧﺯ ﯽﺑ ﺱﺍﻮﯾ ﮏﯾ"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "ﯽﺑﺎﯾ ﺐﯿﻋ ﻭ ﻪﮑﺒﺷ ﯼﺪﻨﺑﺮﮑﯿﭘ"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "نصب کننده بسته نرم افزار ساده نرم افزار"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "Choose the default APT repo"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr "مدیریت کاربر MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "ﺮﺑﺭﺎﮐ ﻩﺩﺎﺳ ﯼﺪﻨﺑﺮﮑﯿﭘ"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "ﻢﺘﺴﯿﺳ ﺪﯿﻠﮐ ﻪﺤﻔﺻ"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "ﻢﺘﺴﯿﺳ ﺪﯿﻠﮐ ﻪﺤﻔﺻ ﯼﺪﻨﺑﺮﮑﯿﭘ"
+msgid "Adblock"
+msgstr "Adblock"

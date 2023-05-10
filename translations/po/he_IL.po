@@ -4,6 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # Translators:
+# 63f334ffc0709ba0fc2361b80bf3c0f0_00ffd1e <ab96c93ca0ac55ba7fa06385427e60dd_878890>, 2022
 # Yaron Shahrabani <sh.yaron@gmail.com>, 2023
 #
 #, fuzzy
@@ -11,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 23:29-0500\n"
-"PO-Revision-Date: 2022-12-09 04:37+0000\n"
+"POT-Creation-Date: 2023-03-04 14:51-0500\n"
+"PO-Revision-Date: 2016-11-29 14:08+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>, 2023\n"
 "Language-Team: Hebrew (Israel) (https://app.transifex.com/anticapitalista/teams/10162/he_IL/)\n"
 "MIME-Version: 1.0\n"
@@ -21,159 +22,86 @@ msgstr ""
 "Language: he_IL\n"
 "Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "Nvidia driver installer"
+msgstr ""
+
+msgid "Deb Installer"
+msgstr "תוכנית התקנת Deb"
+
 msgid "Format USB"
 msgstr "פרמוט USB"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "פרמוט התקני USB"
+msgid "Job Scheduler"
+msgstr "מתזמן משימות"
 
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Options"
-msgstr "אפשרויות אתחול MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Common start-up choices"
-msgstr "ברירות טעינה משותפות"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
-msgstr "תיקון האתחול של MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "תיקון טעינה פשוט"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Cleanup"
-msgstr "ניקוי MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Quick and safe removal of old files"
-msgstr "הסרה מהירה ובטוחה של קבצים ישנים"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr "אשף התקנת הקודקים של MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr "התקנה פשוטה של מפענחים מוגבלים"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr "התאריך והשעה של MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr "הגדרות תאריך ושעה"
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr "תמונות מערכת MX"
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "יצירת ISO להמחשה של המערכת הפעילה שלך."
+msgid "MX Boot Options"
+msgstr "אפשרויות אתחול MX"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr "תיקון האתחול של MX"
+
+msgid "MX Cleanup"
+msgstr "ניקוי MX"
+
+msgid "MX Codecs Installer"
+msgstr "אשף התקנת הקודקים של MX"
+
+msgid "MX Date & Time"
+msgstr "התאריך והשעה של MX"
+
+msgid "System Locales"
+msgstr "שפות המערכת"
+
+msgid "xfce4-notifyd-start"
+msgstr "xfce4-notifyd-start"
+
 msgid "MX Live USB Maker"
 msgstr "יוצר USB חי MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "יצירת USB להמחשה עם כל היכולות"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr "מסייע הרשת MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "הגדרות ופתרון תקלות רשת"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr "אשף התקנת החבילות של MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "מתקין חבילות יישום תוכנה פשוט"
+msgid "MX RemasterCC"
+msgstr "MX RemasterCC"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr "מנהל מאגרים של MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "בחירת מאגר APT כברירת המחדל"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Samba Config"
 msgstr "הגדרות סמבה MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Manage user Samba shares"
-msgstr "ניהול שיתופי סמבה למשתמשים"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Tweak"
 msgstr "התאמות MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Assorted useful tweaks"
-msgstr ""
-
-msgid "Desktop"
-msgstr "שולחן עבודה"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "Brightness Systray"
 msgstr "בהירות Systray"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "brightness systray application"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "mx-tweak brightness systray"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "starts mx-tweak brightness systray app"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "compton"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "compton startup"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "restore-software-brightness"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "restore xrandr brightness values stored mx-tweak display tab"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr "מנהל המשתמשים של MX"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "הגדרות משתמש פשוטות"
+msgid "Quick System Info"
+msgstr "פרטים מהירים על המערכת"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "מקלדת המערכת"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "הגדרת מקלדת המערכת"
+msgid "Disk Manager"
+msgstr "מנהל כוננים"
+
+msgid "Adblock"
+msgstr "חסימת פרסומות"

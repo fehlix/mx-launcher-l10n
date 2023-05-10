@@ -21,127 +21,59 @@ msgstr ""
 "Language: eu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "Format USB"
 msgstr "Formateatu USBa"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "Formateatu USB gailuak"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
+msgid "Job Scheduler"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "Abio-konponketa sinplea"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr ""
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "Sortu exekutatzen ari den sistemaren ISO zuzeneko argazki bat."
+msgid "MX Boot Repair"
+msgstr ""
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Date & Time"
+msgstr ""
+
+msgid "System Locales"
+msgstr ""
+
+msgid "xfce4-notifyd-start"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "Sortu funtzionalitate osoko zuzeneko USB bat"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "Sarearen konfigurazioa eta arazoak konpontzea"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "Software aplikazio paketeen instalatzaile sinplea"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "Choose the default APT repo"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Tweak"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Assorted useful tweaks"
-msgstr ""
-
-msgid "Desktop"
-msgstr "Mahaigaina"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "Brightness Systray"
 msgstr "Distira Systray"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "brightness systray application"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "mx-tweak brightness systray"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "starts mx-tweak brightness systray app"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "compton"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "compton startup"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "restore-software-brightness"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "restore xrandr brightness values stored mx-tweak display tab"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "Erabiltzaileen konfigurazio sinplea"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "Sistemaren teklatua"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "Konfiguratu sistema teklatua"
+msgid "Adblock"
+msgstr "Adblokea"

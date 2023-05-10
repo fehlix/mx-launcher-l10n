@@ -4,16 +4,19 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # Translators:
-# Kempelen, 2022
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# Tamas Szarvas <szarvy@gmail.com>, 2018
+# Gabor Drot <gdrot@yahoo.com>, 2022
+# Kempelen, 2023
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 23:29-0500\n"
-"PO-Revision-Date: 2022-12-09 04:37+0000\n"
-"Last-Translator: Kempelen, 2022\n"
+"POT-Creation-Date: 2023-03-04 14:51-0500\n"
+"PO-Revision-Date: 2016-11-29 14:08+0000\n"
+"Last-Translator: Kempelen, 2023\n"
 "Language-Team: Hungarian (https://app.transifex.com/anticapitalista/teams/10162/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,159 +24,83 @@ msgstr ""
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "Nvidia driver installer"
+msgstr "Nvidia illesztőprogram telepítő"
+
 msgid "Format USB"
 msgstr "USB formázás"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "USB eszközök formázása"
+msgid "Job Scheduler"
+msgstr "Feladat ütemező"
 
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Options"
-msgstr "MX indítási paraméterek"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Common start-up choices"
-msgstr "Általános indítási lehetőségek"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
-msgstr "MX bootjavító"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "Egyszerű bootjavító"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Cleanup"
-msgstr "MX Takarító"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Quick and safe removal of old files"
-msgstr "A régi fájlok gyors és biztonságos eltávolítása"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr "MX kodektelepítő"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr "Zárt kodekek egyszerű telepítése"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
-msgstr "MX dátum és idő"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr "Dátum és idő beállítások"
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr "MX pillanatkép"
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "Élő iso pillanatkép készítése a futó operációs rendszeredről"
+msgid "MX Boot Options"
+msgstr "MX indítási paraméterek"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Boot Repair"
+msgstr "MX bootjavító"
+
+msgid "MX Cleanup"
+msgstr "MX Takarító"
+
+msgid "MX Codecs Installer"
+msgstr "MX kodektelepítő"
+
+msgid "MX Date & Time"
+msgstr "MX dátum és idő"
+
+msgid "System Locales"
+msgstr "Rendszer területi beállítások"
+
+msgid "xfce4-notifyd-start"
+msgstr "xfce4-notifyd indítása"
+
 msgid "MX Live USB Maker"
 msgstr "MX Live-USB készítő"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "Teljesértékű, Live-USB rendszer készítése"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr "MX hálózati asszisztens"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "Hálózat konfiguráló és hibajavító"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr "MX csomagtelepítő"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "Egyszerű szoftveralkalmazás-csomag telepítő"
+msgid "MX RemasterCC"
+msgstr "MX lemezképbe rögzítés vezérlőközpont"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr "MX tárolókezelő"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "Az alapértelmezett APT tároló kiválasztása"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Samba Config"
 msgstr "MX Samba Beállítások"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Manage user Samba shares"
-msgstr "Felhasználói Samba megosztások kezelése"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Tweak"
 msgstr "MX finomhangoló"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Assorted useful tweaks"
-msgstr "Válogatott hasznos trükkök"
-
-msgid "Desktop"
-msgstr "Asztal"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "Brightness Systray"
 msgstr "Fényerősség tálcaikon"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "brightness systray application"
-msgstr "fényerősség tálcaalkalmazás"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "mx-tweak brightness systray"
 msgstr "mx-tweak fényerősség tálca"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "starts mx-tweak brightness systray app"
-msgstr "elindítja az mx-tweak fényerősség tálcaalkalmazást"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "compton"
 msgstr "compton"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "compton startup"
-msgstr "compton indítás"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "restore-software-brightness"
 msgstr "Szoftveres fényerősség visszaállítása"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "restore xrandr brightness values stored mx-tweak display tab"
-msgstr "az xrandr fényerősség értékek visszaállítása az mx-tweak megjelenítési fülön tárolt értékre"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr "MX felhasználókezelő"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "Egyszerű felhasználó konfigurálás"
+msgid "Quick System Info"
+msgstr "Gyors rendszerinformáció"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "Rendszer billentyűzet"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "Rendszer billentyűzet beállítása"
+msgid "Disk Manager"
+msgstr "Lemezkezelő"
+
+msgid "Adblock"
+msgstr "Reklámblokkolás"

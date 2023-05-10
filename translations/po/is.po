@@ -4,6 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# Sveinn í Felli <sv1@fellsnet.is>, 2022
 # Robin, 2023
 #
 #, fuzzy
@@ -11,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 23:29-0500\n"
-"PO-Revision-Date: 2022-12-09 04:37+0000\n"
+"POT-Creation-Date: 2023-03-04 14:51-0500\n"
+"PO-Revision-Date: 2016-11-29 14:08+0000\n"
 "Last-Translator: Robin, 2023\n"
 "Language-Team: Icelandic (https://app.transifex.com/anticapitalista/teams/10162/is/)\n"
 "MIME-Version: 1.0\n"
@@ -21,135 +23,59 @@ msgstr ""
 "Language: is\n"
 "Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "Nvidia driver installer"
+msgstr ""
+
 msgid "Format USB"
 msgstr "Forsníða USB"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "Forsníða USB tæki"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
-msgstr "Gera við ræsiferli MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "Einfalt forrit til að gera við ræsiferlið"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr "Uppsetning kóðunarlykla MX"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr "Uppsetning skilyrtra kóðunarlykla (codecs)"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
+msgid "Job Scheduler"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "Búðu til lifandi iso skyndimynd af hlaupakerfinu þínu."
+msgid "MX Boot Repair"
+msgstr "Gera við ræsiferli MX"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "Uppsetning kóðunarlykla MX"
+
+msgid "MX Date & Time"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "Búðu til lifandi usb með fullri lögun"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "Uppsetning og vandamálalausnir varðandi nettengingar"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "Einfaldur hugbúnaðarforritapakki"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "Choose the default APT repo"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Tweak"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Assorted useful tweaks"
-msgstr ""
-
-msgid "Desktop"
-msgstr "Skjáborð"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "Brightness Systray"
 msgstr "Birta Systray"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "brightness systray application"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "mx-tweak brightness systray"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "starts mx-tweak brightness systray app"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "compton"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "compton startup"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "restore-software-brightness"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "restore xrandr brightness values stored mx-tweak display tab"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "Einföld notendastilling"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "Kerfislyklaborð"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "Stilla kerfislyklaborð"
+msgid "Adblock"
+msgstr "Auglýsingabann"

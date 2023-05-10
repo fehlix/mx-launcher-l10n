@@ -1,117 +1,54 @@
 # Translation completion report for resource mx-launcher-l10n 
 # with minimum completion percent 10%
-# generated at Mon, 24 Apr 2023 14:21:59 -0500
+# generated at Wed, 10 May 2023 17:50:06 -0500
    Nr.		Cnt.	 Compl.		Code		Language
    ---		----	 ------		----		--------
-     1		  39	   100%    	ca      	ca	Catalan; Valencian
-     2		  39	   100%    	cs      	cs	Czech
-     3		  39	   100%    	es      	es	Spanish; Castilian
-     4		  39	   100%    	es_ES   	es	Spanish; Castilian @ Spain
-     5		  39	   100%    	fr      	fr	French
-     6		  39	   100%    	fr_BE   	fr	French @ Belgium
-     7		  39	   100%    	hu      	hu	Hungarian
-     8		  39	   100%    	it      	it	Italian
-     9		  39	   100%    	ja      	ja	Japanese
-    10		  39	   100%    	nb      	nb	Bokmål, Norwegian; Norwegian Bokmål
-    11		  39	   100%    	pl      	pl	Polish
-    12		  39	   100%    	pt      	pt	Portuguese
-    13		  39	   100%    	pt_BR   	pt	Portuguese @ Brazil
-    14		  39	   100%    	ru      	ru	Russian
-    15		  39	   100%    	sl      	sl	Slovenian
-    16		  39	   100%    	sv      	sv	Swedish
-    17		  39	   100%    	tr      	tr	Turkish
-    18		  36	    92%    	el      	el	Greek, Modern (1453-)
-    19		  35	    89%    	de      	de	German
-    20		  33	    84%    	nl      	nl	Dutch; Flemish
-    21		  31	    79%    	he_IL   	he	Hebrew @ Israel
-    22		  31	    79%    	sq      	sq	Albanian
-    23		  28	    71%    	da      	da	Danish
-    24		  27	    69%    	sk      	sk	Slovak
-    25		  27	    69%    	zh_CN   	zh	Chinese @ China
-    26		  26	    66%    	fi      	fi	Finnish
-    27		  26	    66%    	lt      	lt	Lithuanian
-    28		  26	    66%    	nl_BE   	nl	Dutch; Flemish @ Belgium
-    29		  25	    64%    	hi      	hi	Hindi
-    30		  24	    61%    	am      	am	Amharic
-    31		  24	    61%    	zh_TW   	zh	Chinese @ Taiwan, Province of China
-    32		  19	    48%    	hr      	hr	Croatian
-    33		  19	    48%    	ro      	ro	Romanian; Moldavian; Moldovan
-    34		  16	    41%    	is      	is	Icelandic
-    35		  16	    41%    	uk      	uk	Ukrainian
-    36		  15	    38%    	bg      	bg	Bulgarian
-    37		  15	    38%    	kk      	kk	Kazakh
-    38		  14	    35%    	ar      	ar	Arabic
-    39		  14	    35%    	gl_ES   	gl	Galician @ Spain
-    40		  14	    35%    	mr      	mr	Marathi
-    41		  14	    35%    	th      	th	Thai
-    42		  13	    33%    	et      	et	Estonian
-    43		  13	    33%    	eu      	eu	Basque
-    44		  13	    33%    	id      	id	Indonesian
-    45		  13	    33%    	ko      	ko	Korean
-    46		  13	    33%    	mk      	mk	Macedonian
-    47		  13	    33%    	sr      	sr	Serbian
-    48		  12	    30%    	fa      	fa	Persian
-    49		  10	    25%    	gu      	gu	Gujarati
-    50		   9	    23%    	af      	af	Afrikaans
-    51		   9	    23%    	be      	be	Belarusian
-    52		   9	    23%    	bn      	bn	Bengali
-    53		   9	    23%    	bs      	bs	Bosnian
-    54		   9	    23%    	cy      	cy	Welsh
-    55		   9	    23%    	eo      	eo	Esperanto
-    56		   9	    23%    	ga      	ga	Irish
-    57		   9	    23%    	gd      	gd	Gaelic; Scottish Gaelic
-    58		   9	    23%    	gl      	gl	Galician
-    59		   9	    23%    	ha      	ha	Hausa
-    60		   9	    23%    	haw     		Hawaiian
-    61		   9	    23%    	he      	he	Hebrew
-    62		   9	    23%    	ht      	ht	Haitian; Haitian Creole
-    63		   9	    23%    	hy      	hy	Armenian
-    64		   9	    23%    	ka      	ka	Georgian
-    65		   9	    23%    	km      	km	Central Khmer
-    66		   9	    23%    	kn      	kn	Kannada
-    67		   9	    23%    	ku      	ku	Kurdish
-    68		   9	    23%    	ky      	ky	Kirghiz; Kyrgyz
-    69		   9	    23%    	lo      	lo	Lao
-    70		   9	    23%    	lv      	lv	Latvian
-    71		   9	    23%    	mi      	mi	Maori
-    72		   9	    23%    	ml      	ml	Malayalam
-    73		   9	    23%    	mn      	mn	Mongolian
-    74		   9	    23%    	my      	my	Burmese
-    75		   9	    23%    	ne      	ne	Nepali
-    76		   9	    23%    	ny      	ny	Chichewa; Chewa; Nyanja
-    77		   9	    23%    	or      	or	Oriya
-    78		   9	    23%    	pa      	pa	Panjabi; Punjabi
-    79		   9	    23%    	ps      	ps	Pushto; Pashto
-    80		   9	    23%    	rw      	rw	Kinyarwanda
-    81		   9	    23%    	sd      	sd	Sindhi
-    82		   9	    23%    	si      	si	Sinhala; Sinhalese
-    83		   9	    23%    	so      	so	Somali
-    84		   9	    23%    	st      	st	Sotho, Southern
-    85		   9	    23%    	sw      	sw	Swahili
-    86		   9	    23%    	ta      	ta	Tamil
-    87		   9	    23%    	te      	te	Telugu
-    88		   9	    23%    	tg      	tg	Tajik
-    89		   9	    23%    	tk      	tk	Turkmen
-    90		   9	    23%    	tt      	tt	Tatar
-    91		   9	    23%    	ug      	ug	Uighur; Uyghur
-    92		   9	    23%    	ur      	ur	Urdu
-    93		   9	    23%    	uz      	uz	Uzbek
-    94		   9	    23%    	vi      	vi	Vietnamese
-    95		   9	    23%    	xh      	xh	Xhosa
-    96		   9	    23%    	yi      	yi	Yiddish
-    97		   9	    23%    	yo      	yo	Yoruba
-    98		   8	    20%    	ceb     		Cebuano
-    99		   8	    20%    	co      	co	Corsican
-   100		   8	    20%    	fil     		Filipino
-   101		   8	    20%    	jv      	jv	Javanese
-   102		   8	    20%    	ms      	ms	Malay
-   103		   8	    20%    	mt      	mt	Maltese
-   104		   8	    20%    	sm      	sm	Samoan
-   105		   8	    20%    	sn      	sn	Shona
-   106		   8	    20%    	su      	su	Sundanese
-   107		   7	    17%    	fy      	fy	Western Frisian
-   108		   7	    17%    	lb      	lb	Luxembourgish; Letzeburgesch
-   109		   7	    17%    	mg      	mg	Malagasy
-   110		   3	     7%    	zh_HK   	zh	Chinese @ Hong Kong
-   111		   2	     5%    	fil_PH  		Filipino @ Philippines
-   112		   1	     2%    	nb_NO   	nb	Bokmål, Norwegian; Norwegian Bokmål @ Norway
+     1		  28	   100%    	ca      	ca	Catalan; Valencian
+     2		  28	   100%    	es      	es	Spanish; Castilian
+     3		  28	   100%    	es_ES   	es	Spanish; Castilian @ Spain
+     4		  28	   100%    	fr      	fr	French
+     5		  28	   100%    	fr_BE   	fr	French @ Belgium
+     6		  28	   100%    	it      	it	Italian
+     7		  28	   100%    	ja      	ja	Japanese
+     8		  28	   100%    	nb      	nb	Bokmål, Norwegian; Norwegian Bokmål
+     9		  28	   100%    	pt      	pt	Portuguese
+    10		  28	   100%    	pt_BR   	pt	Portuguese @ Brazil
+    11		  28	   100%    	ru      	ru	Russian
+    12		  28	   100%    	sl      	sl	Slovenian
+    13		  28	   100%    	sv      	sv	Swedish
+    14		  28	   100%    	tr      	tr	Turkish
+    15		  27	    96%    	cs      	cs	Czech
+    16		  27	    96%    	hu      	hu	Hungarian
+    17		  27	    96%    	pl      	pl	Polish
+    18		  26	    92%    	de      	de	German
+    19		  26	    92%    	el      	el	Greek, Modern (1453-)
+    20		  24	    85%    	he_IL   	he	Hebrew @ Israel
+    21		  24	    85%    	nl      	nl	Dutch; Flemish
+    22		  24	    85%    	sq      	sq	Albanian
+    23		  20	    71%    	nl_BE   	nl	Dutch; Flemish @ Belgium
+    24		  18	    64%    	da      	da	Danish
+    25		  18	    64%    	fi      	fi	Finnish
+    26		  17	    60%    	zh_CN   	zh	Chinese @ China
+    27		  16	    57%    	hi      	hi	Hindi
+    28		  16	    57%    	lt      	lt	Lithuanian
+    29		  16	    57%    	sk      	sk	Slovak
+    30		  15	    53%    	am      	am	Amharic
+    31		  15	    53%    	zh_TW   	zh	Chinese @ Taiwan, Province of China
+    32		  14	    50%    	gl_ES   	gl	Galician @ Spain
+    33		  10	    35%    	hr      	hr	Croatian
+    34		   9	    32%    	ro      	ro	Romanian; Moldavian; Moldovan
+    35		   7	    25%    	uk      	uk	Ukrainian
+    36		   6	    21%    	is      	is	Icelandic
+    37		   6	    21%    	kk      	kk	Kazakh
+    38		   6	    21%    	th      	th	Thai
+    39		   5	    17%    	ar      	ar	Arabic
+    40		   5	    17%    	bg      	bg	Bulgarian
+    41		   5	    17%    	id      	id	Indonesian
+    42		   5	    17%    	mr      	mr	Marathi
+    43		   4	    14%    	et      	et	Estonian
+    44		   4	    14%    	eu      	eu	Basque
+    45		   4	    14%    	fa      	fa	Persian
+    46		   4	    14%    	gu      	gu	Gujarati
+    47		   4	    14%    	ko      	ko	Korean
+    48		   4	    14%    	mk      	mk	Macedonian
+    49		   4	    14%    	sr      	sr	Serbian

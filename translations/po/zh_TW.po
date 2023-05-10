@@ -21,135 +21,62 @@ msgstr ""
 "Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "Format USB"
 msgstr "格式化 USB"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Format USB devices"
-msgstr "格式化 USB 設備"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Boot Repair"
-msgstr "MX 開機修復"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Boot Repair"
-msgstr "簡單的開機修復工具"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Codecs Installer"
-msgstr "MX 安裝影音編碼"
-
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple install of restricted codecs"
-msgstr "簡單安裝限制性的影音編碼"
-
-#. The desktop entry name will be displayed within the menu.
-msgid "MX Date & Time"
+msgid "Job Scheduler"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Date & Time Settings"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Snapshot"
 msgstr "MX 快照"
 
-#. # The desktop entry comment will be shown within the menu.
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a live iso snapshot of your running system."
-msgstr "將本電腦上正在運行的系統做成現場版映像檔"
+msgid "MX Boot Repair"
+msgstr "MX 開機修復"
 
-#. The desktop entry name will be displayed within the menu.
+msgid "MX Codecs Installer"
+msgstr "MX 安裝影音編碼"
+
+msgid "MX Date & Time"
+msgstr ""
+
 msgid "MX Live USB Maker"
 msgstr "MX 製作現場版 USB"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Create a full-featured live-usb"
-msgstr "創造功能完備的現場版 USB"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Network Assistant"
 msgstr "MX 網路助理"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Network configuration and troubleshooting"
-msgstr "設定網路與排除障礙"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Package Installer"
 msgstr "MX 安裝軟體"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple Software Application Package Installer"
-msgstr "簡單的軟體安裝工具"
+msgid "MX RemasterCC"
+msgstr "MX 重製控制中心"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Repo Manager"
 msgstr "MX 管理軟體倉庫"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Choose the default APT repo"
-msgstr "選擇預設的 APT 倉庫"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX Tweak"
 msgstr "MX 調校"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Assorted useful tweaks"
-msgstr "多項有用的調校工具"
-
-msgid "Desktop"
-msgstr "桌面"
-
-#. The desktop entry name will be displayed within the menu.
 msgid "Brightness Systray"
 msgstr "亮度 Systray"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "brightness systray application"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "mx-tweak brightness systray"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "starts mx-tweak brightness systray app"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "compton"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "compton startup"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "restore-software-brightness"
 msgstr ""
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "restore xrandr brightness values stored mx-tweak display tab"
-msgstr ""
-
-#. The desktop entry name will be displayed within the menu.
 msgid "MX User Manager"
 msgstr "MX 管理使用者"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Simple user configuration"
-msgstr "簡單的使用者設定"
+msgid "Quick System Info"
+msgstr "快速顯示系統資訊"
 
-#. The desktop entry name will be displayed within the menu.
 msgid "System Keyboard"
 msgstr "系統鍵盤"
 
-#. # The desktop entry comment will be shown within the menu.
-msgid "Configure System Keyboard"
-msgstr "配置系統鍵盤"
+msgid "Adblock"
+msgstr "阻擋廣告"

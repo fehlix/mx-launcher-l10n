@@ -4,3 +4,8 @@ mesonbuild/
 *~/
 *.bak
 *~
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/*.substvars
+debian/mx-launcher-l10n/
